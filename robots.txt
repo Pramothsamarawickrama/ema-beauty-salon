@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.emabeautysalon.co.uk/sitemap.xml
