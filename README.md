@@ -32,6 +32,7 @@ To keep the site honest and accurate, several things were deliberately left as c
 |---|---|---|
 | Opening hours | "Opening Hours" section in `index.html` | Replace each `[Opening hours]` with the real hours |
 | Service prices | "Services" section in `index.html` **and** `pricing.html` | Replace "Price on consultation" with real prices (e.g. "From £35") in both places — they list the same treatments |
+| Preferred Time options | "Contact" section, `<select id="time">` in `index.html` | Currently lists 9:00 AM–6:00 PM in 30-minute steps as a placeholder range — trim it to match your real opening hours once confirmed |
 | Customer reviews | "Reviews" section | Replace the placeholder card with real, verified reviews (e.g. embed via a reviews widget, or manually add quote cards in the same style) |
 | Photography | Hero, About, Gallery, Featured Services | All images are stock photography from Unsplash. Replace the `src` attributes with real photos of the salon, staff and treatments |
 | Privacy / Cookie policy | `privacy-policy.html`, `cookie-policy.html` | Placeholder legal text — have these reviewed/completed (ideally by a professional) before launch |
